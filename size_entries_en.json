@@ -1,6 +1,6 @@
 [
   {
-    "value": "Small",
+    "value": "small",
     "synonyms": [
       "Small",
       "s",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "value": "Medium",
+    "value": "medium",
     "synonyms": [
       "Medium",
       "m",
@@ -17,9 +17,9 @@
     ]
   },
   {
-    "value": "Large",
+    "value": "large",
     "synonyms": [
-      "Large",
+      "lar",
       "l",
       "larg"
     ]

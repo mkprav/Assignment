@@ -3,5 +3,6 @@
   "name": "nonveg_pizza",
   "isOverridable": true,
   "isEnum": false,
-  "automatedExpansion": false
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
 }

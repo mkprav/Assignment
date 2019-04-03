@@ -9,7 +9,7 @@ pizza_name;
 
 Intents:
 pizza.order,
-izza.orde.status,
+pizza.order.status,
 pizza.user.details;
 
 Firebase Fulfillment:
